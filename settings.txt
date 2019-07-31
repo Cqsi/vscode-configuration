@@ -1,0 +1,29 @@
+{
+    "workbench.colorTheme": "monokai-chacoral(HC)",
+    "editor.fontSize": 20,
+    "files.autoSaveDelay": 1000,
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 0,
+    "workbench.settings.editor": "json",
+    "workbench.settings.useSplitJSON": true,
+    "editor.wordWrap": "on",
+    "terminal.integrated.fontSize": 20,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.renderLineHighlight": "none",
+    "code-runner.runInTerminal": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "code-runner.saveFileBeforeRun": true,
+    "terminal.integrated.cwd": "C:\\Users\\Capsimir\\Desktop\\VisualStudio\\PythonProjects",
+    "workbench.iconTheme": "vscode-icons",
+    "explorer.confirmDragAndDrop": false,
+    "shellLauncher.shells.windows": [
+        {
+            "shell": "C:\\WINDOWS\\System32\\cmd.exe",
+            "label": "cmd"
+        },
+        {
+            "shell": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "label": "Git bash"
+        },
+    ]
+}

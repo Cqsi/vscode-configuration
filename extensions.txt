@@ -1,0 +1,8 @@
+Code Runner
+Live Server
+Material Icon Theme
+Monokai Charcoal high contrast
+JavaScript (ES6) code snippets
+Shell launcher
+Python
+vscode-icons
