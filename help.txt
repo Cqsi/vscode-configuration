@@ -1,0 +1,13 @@
+Good Keyboard Shortcuts:
+
+Settings - Ctrl+,
+Run - Ctrl+Alt+N
+Switch between workspace and terminal - Ctrl+T
+Add a new terminal (cmd) - Ctrl+Alt+T
+Switch terminals - Ctrl+Shift+K
+
+
+How to find downloaded extensions + themes:
+
+1. Win+R
+2. %USERPROFILE%\.vscode\extensions
