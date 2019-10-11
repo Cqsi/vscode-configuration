@@ -1,6 +1,6 @@
 {
     "workbench.colorTheme": "monokai-chacoral(HC)",
-    "editor.fontSize": 20,
+    "editor.fontSize": 18,
     "files.autoSaveDelay": 1000,
     "files.autoSave": "afterDelay",
     "window.zoomLevel": 0,
@@ -11,10 +11,7 @@
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
     "editor.renderLineHighlight": "none",
     "code-runner.runInTerminal": true,
-    "liveServer.settings.donotShowInfoMsg": true,
     "code-runner.saveFileBeforeRun": true,
-    "terminal.integrated.cwd": "C:\\Users\\Capsimir\\Desktop\\VisualStudio\\PythonProjects",
-    "workbench.iconTheme": "vscode-icons",
     "explorer.confirmDragAndDrop": false,
     "shellLauncher.shells.windows": [
         {
@@ -25,5 +22,15 @@
             "shell": "C:\\Program Files\\Git\\bin\\bash.exe",
             "label": "Git bash"
         },
-    ]
+    ],
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.panel.defaultLocation": "right",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "workbench.colorCustomizations": {
+        "editorError.foreground":   "#00000000",
+        "editorWarning.foreground": "#00000000",
+        "editorInfo.foreground":    "#00000000"
+    }
 }
