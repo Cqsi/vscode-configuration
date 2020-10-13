@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "monokai-chacoral(HC)",
+    "workbench.colorTheme": "monokai-charcoal",
     "editor.fontSize": 18,
     "files.autoSaveDelay": 1000,
     "files.autoSave": "afterDelay",
@@ -32,5 +32,9 @@
         "editorError.foreground":   "#00000000",
         "editorWarning.foreground": "#00000000",
         "editorInfo.foreground":    "#00000000"
-    }
+    },
+    "python.languageServer": "Microsoft",
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "code-runner.terminalRoot": "/"
 }
