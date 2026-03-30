@@ -1,40 +1,28 @@
 {
+    "workbench.iconTheme": "vscode-icons",
     "workbench.colorTheme": "monokai-charcoal",
-    "editor.fontSize": 18,
-    "files.autoSaveDelay": 1000,
-    "files.autoSave": "afterDelay",
-    "window.zoomLevel": 0,
-    "workbench.settings.editor": "json",
-    "workbench.settings.useSplitJSON": true,
-    "editor.wordWrap": "on",
-    "terminal.integrated.fontSize": 20,
-    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-    "editor.renderLineHighlight": "none",
-    "code-runner.runInTerminal": true,
-    "code-runner.saveFileBeforeRun": true,
-    "explorer.confirmDragAndDrop": false,
-    "shellLauncher.shells.windows": [
-        {
-            "shell": "C:\\WINDOWS\\System32\\cmd.exe",
-            "label": "cmd"
-        },
-        {
-            "shell": "C:\\Program Files\\Git\\bin\\bash.exe",
-            "label": "Git bash"
-        },
-    ],
     "liveServer.settings.donotShowInfoMsg": true,
     "workbench.panel.defaultLocation": "right",
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "python.jediEnabled": false,
     "workbench.colorCustomizations": {
-        "editorError.foreground":   "#00000000",
-        "editorWarning.foreground": "#00000000",
-        "editorInfo.foreground":    "#00000000"
+        "editorError.foreground":   "#ff0000",
+        "editorWarning.foreground": "#ffa500",
+        "editorInfo.foreground":    "#00bfff"
     },
-    "python.languageServer": "Microsoft",
-    "workbench.iconTheme": "vscode-icons",
-    "vsicons.dontShowNewVersionMessage": true,
-    "code-runner.terminalRoot": "/"
+    "files.autoSaveDelay": 1000,
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 0,
+    "workbench.settings.editor": "json",
+    "workbench.settings.useSplitJSON": true,
+    "editor.wordWrap": "on",
+    "terminal.integrated.fontSize": 14,
+    "editor.renderLineHighlight": "none",
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontSize": 14,
+    "git.enableSmartCommit": true,
+    "claudeCode.preferredLocation": "panel"
 }

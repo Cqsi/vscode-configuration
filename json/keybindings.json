@@ -1,7 +1,16 @@
 // Place your key bindings in this file to override the defaults
+// Note: cmd -> ctrl on Windows
 [
-    { "key": "ctrl+t", "command": "workbench.action.terminal.focus"},
-    { "key": "ctrl+t", "command": "workbench.action.focusActiveEditorGroup", "when": "terminalFocus"},
-    { "key": "ctrl+alt+t", "command": "shellLauncher.launch" },
-    { "key": "ctrl+shift+k", "command": "workbench.action.terminal.focusNext" },
+  {
+    "key": "cmd+t",
+    "command": "workbench.action.terminal.toggleTerminal"
+  },
+  {
+    "key": "cmd+n",
+    "command": "-workbench.action.files.newUntitledFile"
+  },
+  {
+    "key": "cmd+n",
+    "command": "workbench.action.terminal.runActiveFile"
+  }
 ]

@@ -1,8 +1,27 @@
-Code Runner
-Live Server
-Material Icon Theme
-Monokai Charcoal high contrast
-JavaScript (ES6) code snippets
-Shell launcher
-Python
-vscode-icons
+# VS Code Extensions
+# Install all at once with:
+#   Windows PowerShell: Get-Content extensions.txt | Where-Object { $_ -notmatch '^#' -and $_ -ne '' } | ForEach-Object { code --install-extension $_ }
+#   Mac/Linux:          grep -v '^#' extensions.txt | grep -v '^$' | xargs -L1 code --install-extension
+
+74th.monokai-charcoal-high-contrast
+anthropic.claude-code
+formulahendry.code-runner
+github.copilot-chat
+ms-azuretools.vscode-containers
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+ms-python.vscode-python-envs
+ms-vscode-remote.remote-containers
+pkief.material-icon-theme
+redhat.java
+ritwickdey.liveserver
+svelte.svelte-vscode
+vscjava.vscode-gradle
+vscjava.vscode-java-debug
+vscjava.vscode-java-dependency
+vscjava.vscode-java-pack
+vscjava.vscode-java-test
+vscjava.vscode-maven
+vscode-icons-team.vscode-icons
+xabikos.javascriptsnippets
