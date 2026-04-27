@@ -24,5 +24,6 @@
     "explorer.confirmDragAndDrop": false,
     "editor.fontSize": 14,
     "git.enableSmartCommit": true,
-    "claudeCode.preferredLocation": "panel"
+    "claudeCode.preferredLocation": "panel",
+    "window.restoreWindows": "all"
 }
